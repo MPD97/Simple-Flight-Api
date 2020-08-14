@@ -2,7 +2,7 @@
 
   <PropertyGroup>
     <TargetFramework>netcoreapp3.1</TargetFramework>
-    <RootNamespace>Flight_Api</RootNamespace>
+    <RootNamespace>Flight_API</RootNamespace>
   </PropertyGroup>
 
 
